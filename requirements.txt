@@ -1,0 +1,8 @@
+PyQt5
+python-docx
+docx2txt
+Pillow
+pytesseract
+networkx
+PyMuPDF
+pdfplumber
