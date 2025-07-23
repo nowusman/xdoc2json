@@ -100,7 +100,7 @@ class XDoc2JSONApp(QMainWindow):
     """
     def __init__(self):
         super().__init__()
-        self.setWindowTitle("Document Content Extractor")
+        self.setWindowTitle("Document Content Extractor by Usman")
         self.resize(800, 600)
         self.selected_files: List[Path] = []
 
